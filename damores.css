@@ -1,0 +1,53 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    line-height: 1.6em;
+}
+
+#navbar{
+	text-align:center;
+}
+
+.jumbotron a {
+    color:rgb(15, 0, 150);
+    text-decoration: none;
+}
+
+.jumbotron a:hover {
+    color: rgb(24, 24, 24);
+    text-decoration: none;
+}
+
+.jumbotron h1 {
+    color: #333;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 100;
+    padding-top: 40px;
+    padding-bottom: 0%;
+    height: 60px;
+}
+
+.jumbotron h2 {
+    color:#333;
+    padding-top: 0px;
+    height: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 100;
+}
+
+.jumbotron p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px; 
+}
+
+#footer {
+    height: 60px;
+    clear: both;
+    background-color: #fafafa;
+}
+
+#footer p {
+    margin: 0;
+    padding: 15px 15px;
+    text-align: center;
+}
