@@ -1,5 +1,5 @@
 body {
-    font-family: 'Times New Roman', Times, serif;
+    font-family:'Times New Roman', Times, serif;
     font-size: 16px;
     line-height: 1.6em;
 }
@@ -20,7 +20,7 @@ body {
 
 .jumbotron h1 {
     color: #333;
-    font-family: 'Times New Roman', Times, serif;
+    font-family:'Times New Roman', Times, serif;
     font-weight: 100;
     padding-top: 40px;
     padding-bottom: 0%;
@@ -31,13 +31,23 @@ body {
     color:#333;
     padding-top: 0px;
     height: 10px;
-    font-family: 'Times New Roman', Times, serif;
+    font-family:'Times New Roman', Times, serif;
     font-weight: 100;
 }
 
 .jumbotron p{
-    font-family: 'Times New Roman', Times, serif;
+    font-family:'Times New Roman', Times, serif;
     font-size: 16px; 
+}
+
+.jumbotron strong{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 16px;
+}
+
+.jumbotron ul{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 16px;
 }
 
 #footer {
